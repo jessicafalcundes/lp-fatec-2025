@@ -1,3 +1,7 @@
+/* Ex6 - Faça um programa em linguagem Java para inserir dados em dois vetores de 20 posições de inteiros.
+A seguir, troque o 1 º elemento de A com o 20 º de B, o 2 º de A com o 19 º de B, e assim por diante, até
+trocar o 20 º de A com o 1 º de B Mostre os vetores antes e depois da troca */
+
 import java.util.Scanner;
 
 public class JessicaEx6 {
