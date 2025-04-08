@@ -1,0 +1,22 @@
+# arquivos compilados
+*.class
+
+# pastas de IDEs
+.idea/
+.vscode/
+out/
+bin/
+target/
+
+# arquivos de log
+*.log
+
+# arquivos do sistema e temporários
+*.tmp
+*.swp
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# arquivos do onedrive
+~$*
