@@ -1,4 +1,4 @@
-#### Exercícios de Java – Faculdade FATEC
+#### Exercícios de Java – Fatec
 
 Este repositório reúne os exercícios desenvolvidos durante as aulas da disciplina de **Linguagem de Programação**, utilizando a linguagem **Java**.  
 
